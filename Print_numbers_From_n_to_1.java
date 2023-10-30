@@ -10,7 +10,7 @@ public class Print_numbers_From_n_to_1 {
             printDec(n-1);
         }
     public static void main(String args[]) {
-    printDec(0);
+    printDec(5);
     }
 
 }
